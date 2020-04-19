@@ -6,13 +6,9 @@ Plugins include:
 * Add
 * Add Features
 * Exponentiate
-* Exponentiate Features
 * Multiply
 * Multiply Features
-* Divide
-* Divide Features
 * Modulus
-* Modulus Features
 
 
 
