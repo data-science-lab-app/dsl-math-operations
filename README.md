@@ -5,8 +5,6 @@ A collection of operations to transform the features of the dataset.
 Plugins include:
 * Add
 * Add Features
-* Subtract
-* Subtract Features
 * Exponentiate
 * Exponentiate Features
 * Multiply
