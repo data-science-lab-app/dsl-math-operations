@@ -20,9 +20,40 @@
     "url": "https://github.com/data-science-lab-app/dsl-math-operations/issues"
   },
   "homepage": "https://github.com/data-science-lab-app/dsl-math-operations#readme",
-  "data_science_lab": [],
+  "data_science_lab": [
+    {
+      "name": "Add",
+      "type": "Transform",
+      "classname": "AddOperation"
+    },
+    {
+      "name": "Add Features",
+      "type": "Transform",
+      "classname": "AddFeaturesOperation"
+    },
+    {
+      "name": "Exponentiate",
+      "type": "Transform",
+      "classname": "ExponentiateOperation"
+    },
+    {
+      "name": "Modulus",
+      "type": "Transform",
+      "classname": "ModulusOperation"
+    },
+    {
+      "name": "Multiply",
+      "type": "Transform",
+      "classname": "MultiplyOperation"
+    },
+    {
+      "name": "Multiply Features",
+      "type": "Transform",
+      "classname": "MultiplyFeaturesOperation"
+    }
+  ],
   "dependencies": {
-    "data-science-lab-core": "^0.0.27"
+    "data-science-lab-core": "^0.0.30"
   },
   "devDependencies": {
     "@types/node": "^12.11.1",
